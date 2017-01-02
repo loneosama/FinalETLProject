@@ -1,2 +1,3 @@
 # FinalETLProject
-Project in C# by the 5
+
+Star schema sql script included
