@@ -4,3 +4,6 @@ D:\Projects\VS 15\ETL\ETL\bin\Debug\ETL.pdb
 D:\Projects\VS 15\ETL\ETL\obj\Debug\ETL.csprojResolveAssemblyReference.cache
 D:\Projects\VS 15\ETL\ETL\obj\Debug\ETL.exe
 D:\Projects\VS 15\ETL\ETL\obj\Debug\ETL.pdb
+D:\Projects\VS 15\FinalETLProject\ETL\bin\Debug\ETL.exe.config
+D:\Projects\VS 15\FinalETLProject\ETL\obj\Debug\ETL.exe
+D:\Projects\VS 15\FinalETLProject\ETL\obj\Debug\ETL.pdb
